@@ -1,0 +1,29 @@
+body{
+    background-color: #caeeff;
+    box-sizing: border-box;
+}
+
+.navbar{
+    background-color: #004f73;
+}
+
+.card{
+    background-color: #caeeff;
+    border-right: 0;
+    border-top: 0;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: #004f73;
+}
+
+p.description{
+    font-size: 1.6rem;
+    color: #004f73;
+}
+
+h1{
+    color: #004f73;
+}
+
+
+
